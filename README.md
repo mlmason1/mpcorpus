@@ -2,12 +2,12 @@
 
 # DIGHUM 101 
 
-![Header Image](/images/mantua.png)
+![Header Image](../mantua.png)
 Format: ![Alt Text](url)
 
 **Group Project Abstract** 
 
-For our group project, we read a number of articles about the digital humanities and made a presentation that we delivered to the class about how the authors of these texts define, challenge, and utilize the digital humanities as a field of study that interfaces with traditional humanities scholarship. Technology, big data, and deep learning techniques promise to transform the world in which we are living, as it already has, to a certain extent. This is true even for the most traditional fields of study in the humanities. It is no longer a matter of when the digital humanities and the humanities will conincide, now it is more a matter of how well and to what extent. Our presentation distilled some of the key factors that each of these writers share in their negotiations with this emergent reality.  
+For our group project, we read a number of articles about the digital humanities and made a presentation that we delivered to the class about how the authors of these texts define, challenge, and utilize the digital humanities as a field of study that interfaces with traditional humanities scholarship. Technology, big data, and deep learning techniques promise to continually transform the world the world that we are living in, as it has already. This is true even for the most traditional fields of study in the humanities. It is no longer a matter of when the digital humanities and the humanities will conincide, now it is more a matter of how well and to what extent. Our presentation distilled some of the key factors that each of these writers share in their negotiations with this emergent reality.  
 
 **Individual Project Abstract**
 
