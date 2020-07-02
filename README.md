@@ -2,8 +2,7 @@
 
 # DIGHUM 101 
 
-![Header Image](../mantua.png)
-Format: ![Alt Text](url)
+![Picture](../mantua.png)
 
 **Group Project Abstract** 
 
