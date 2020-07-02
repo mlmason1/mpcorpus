@@ -2,7 +2,7 @@
 
 # DIGHUM 101 
 
-![Picture](../mantua.png)
+![EarlyMantua](/Img/mantua.png)
 
 **Group Project Abstract** 
 
